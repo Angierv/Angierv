@@ -17,10 +17,3 @@ I'm someone who’s passionate about creating clear, efficient, and well-structu
 ![](https://github-profile-trophy.vercel.app/?username=Angierv&theme=radical&no-frame=false&no-bg=false&margin-w=4)
  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Angierv&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Angierv&icon=3&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
